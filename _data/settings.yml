@@ -41,17 +41,20 @@ disqus:
 about: >
   # About Me
 
-  Hi there! I'm Vivien, a Mechanical Engineering student specializing in Mechatronics at the University of British Columbia. For fun, I love to read about psychology, work out, play board games, and draw. Currently, I'm working on getting more sleep.
-contact: >
-  # Contact
+  Hi there! I'm Vivien, a Mechanical Engineering student specializing in Mechatronics at the University of British Columbia. 
+  For fun, I love to read about psychology & systems, work out, play board games, and draw. Currently, I'm working on getting more sleep.
+  
+  Reach out [through my email](mailto:#) or [on LinkedIn](#).
+#contact: >
+#  # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+#  Separate contact section here
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'R&D Reflow Linear Actuator', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
